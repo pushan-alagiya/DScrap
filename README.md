@@ -18,15 +18,15 @@ At DSCRAP, we are committed to making recycling waste a convenient and sustainab
 <summary>Screenshots</summary>
 <br>
 
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/1.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/2.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/3.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/4.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/5.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/6.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/7.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/8.jpeg)
-- ![All in one](https://github.com/pushan-alagiya/DScrap/Screenshots/9.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/1.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/2.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/3.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/4.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/5.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/6.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/7.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/8.jpeg)
+- ![All in one](https://github.com/pushan-alagiya/DScrap/blob/master/Screenshots/9.jpeg)
 </details>
 
 ---
