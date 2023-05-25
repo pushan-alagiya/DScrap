@@ -77,7 +77,7 @@ Install Dependencies
 npm i
 ```
 
-Lainch MongoDB as a service and create a database name `DScrap` and a document name `user`
+Launch MongoDB as a service and create a database name `DScrap` and a document name `user`
 
 Running Project
 
